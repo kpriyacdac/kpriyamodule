@@ -23,6 +23,6 @@ function solveRect(l,b) {
 }
 
 solveRect(2,4);
-solveRect(3,5);
-solveRect(-3,5);
+solveRect(3,6);
+solveRect(-3,6);
 exports.solveRect = solveRect;
